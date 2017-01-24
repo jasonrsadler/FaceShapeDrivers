@@ -1,2 +1,2 @@
 # FaceShapeDrivers
-Script that allows facial expressions and phonemes on Mixamo Fuse created characters.
+Script that allows facial expressions and visemes on Mixamo Fuse created characters.
